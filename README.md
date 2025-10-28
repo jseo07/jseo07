@@ -1,5 +1,7 @@
 # Hi, I'm Jangwon Seo
 
+[Portfolio Website](https://seojangwon.xyz)
+
 🎓 Statistics Student @ University of British Columbia  
 💻 Data Scientist & Software Developer passionate about delivering creative solutions through data  
 🌍 Experienced in full-stack web development, machine learning, and data visualization  
