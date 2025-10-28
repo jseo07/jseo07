@@ -18,7 +18,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [📈 Dividend Forecasting Dashboard](https://github.com/jseo07/lstm-dividend-prediction) | LSTM model predicting future stock dividends with yfinance API integration | Python, TensorFlow, Django |
-| [🏠 SP Development Real Estate Web App](https://github.com/jseo07/MapInfoProject) | Real estate info portal with admin blogging and map interface | Django, MySQL, Leaflet.js |
+| [🏠 SP Development Real Estate Web App](https://github.com/jseo07/MapInfoProject) | Real estate info portal with admin blogging and map interface | Django, MySQL |
 | [🧬 GAN Facial Composite Generator](https://github.com/jseo07/GMCI) | Generated composite criminal faces via latent space optimization | PyTorch, OpenCV |
 | [🎮 Multiplayer Tetris Game](https://github.com/jseo07/Tetris) | OOP-based multiplayer Tetris built in Java | Java, Swing |
 
