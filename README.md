@@ -3,37 +3,43 @@
 **[Portfolio Website](https://seojangwon.xyz)**
 
 🎓 Statistics Student @ University of British Columbia  
-💻 Data Scientist & Software Developer passionate about delivering creative solutions through data  
-🌍 Experienced in full-stack web development, machine learning, and data visualization  
+💻 Data Scientist & Software Developer passionate about delivering creative, data-driven solutions  
+🌍 Experience spanning machine learning, full-stack web development, and data visualization  
 
 ---
 
-### 🧠 What I Do
-- **Machine Learning:** Predictive modeling, classification, and time series forecasting
-- **Data Engineering:** ETL pipelines, API integration, and automated data visualization
-- **Web Development:** Full-stack apps using **Django**
-- **Data Visualization:** Tableau dashboards and interactive analytics tools
+## 🧠 What I Do
+- **Machine Learning:** Classification, predictive modeling, and time-series forecasting
+- **Data Engineering:** ETL pipelines, API integration, and reproducible data workflows
+- **Web Development:** Full-stack applications using **Django**
+- **Data Visualization:** Interactive dashboards with **Tableau** and analytical reporting
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 | Project | Description | Tech |
-|----------|--------------|------|
-| [📈 Dividend Forecasting Dashboard](https://github.com/jseo07/lstm-dividend-prediction) | LSTM model predicting future stock dividends with yfinance API integration | Python, TensorFlow, Django |
-| [🏠 SP Development Real Estate Web App](https://github.com/jseo07/MapInfoProject) | Real estate info portal with admin blogging and map interface | Django, MySQL |
-| [🧬 GAN Facial Composite Generator](https://github.com/jseo07/GMCI) | Generated composite criminal faces via latent space optimization | PyTorch, OpenCV |
-| [🎮 Multiplayer Tetris Game](https://github.com/jseo07/Tetris) | OOP-based multiplayer Tetris built in Java | Java, Swing |
+|-------|-------------|------|
+| [📈 Dividend Forecasting Dashboard](https://github.com/jseo07/lstm-dividend-prediction) | Built an LSTM-based pipeline to forecast stock dividends using yfinance data, with interactive visualization and API integration | Python, TensorFlow, Django |
+| [🏠 SP Development Real Estate Web App](https://github.com/jseo07/MapInfoProject) | Full-stack real estate information platform with admin blogging tools and an interactive map interface | Django, MySQL |
+| [🧬 GAN Facial Composite Generator](https://github.com/jseo07/GMCI) | Generated composite facial images using GAN latent space optimization to iteratively improve resemblance | PyTorch, OpenCV |
+| [☕ Coffee Quality & Specialty Classification](https://github.com/jseo07/coffee_quality) | End-to-end analysis of specialty coffee quality using CQI data, including EDA, statistical testing, metadata-only machine learning classification, SHAP interpretability, and an interactive Tableau dashboard | Python, scikit-learn, SHAP, Tableau |
+| [🎮 Multiplayer Tetris Game](https://github.com/jseo07/Tetris) | Object-oriented multiplayer Tetris game emphasizing clean architecture, encapsulation, and inheritance | Java, Swing |
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, R, SQL, Java, HTML/CSS/JS  
-**Frameworks:** Django, TensorFlow, scikit-learn, PyTorch  
-**Tools:** Tableau, Git, Azure, VS Code, Jupyter  
+## 🛠️ Tech Stack
+**Languages:** Python, R, SQL, Java, HTML/CSS/JavaScript  
+**Frameworks & Libraries:** Django, TensorFlow, scikit-learn, PyTorch  
+**Tools & Platforms:** Tableau, Git, Azure, VS Code, Jupyter Notebook  
 
 ---
 
-### 🌱 Currently Learning
-Deep learning (transformers), Docker, and cloud deployment automation.
+## 🌱 Currently Learning
+- Transformer-based deep learning models  
+- Docker and containerized workflows  
+- Cloud deployment and automation  
 
-📫 Reach me at **[jangwonseo079@gmail.com](mailto:jangwonseo079@gmail.com)**
+---
+
+📫 Reach me at **[jangwonseo079@gmail.com](mailto:jangwonseo079@gmail.com)**  
